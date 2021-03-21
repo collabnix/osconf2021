@@ -689,7 +689,7 @@ h1, h2, h3, h4, h5, h6 {
 # Speakers Section
 --------------------------------------------------------------*/
 #speakers {
-  padding: 40px 0 20px 0;
+  padding: 40px 0 30px 0;
 }
 
 #speakers .speaker {
@@ -724,7 +724,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #speakers .speaker .details .social {
-  height: 0px;
+  height: 30px;
 }
 
 #speakers .speaker .details .social i {
